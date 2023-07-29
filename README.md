@@ -12,6 +12,11 @@ The user adds expenses by entering a title, dollar amount and date.
 After adding expenses, the user sees on the main screen a bar graph of which type of category has more expenses.
 The user can delete expenses by scrolling the corresponding title to the left, he can cancel this operation with the UNDO button
 
+
+https://github.com/Sabeel-Hamood/ExpensesTracker/assets/116495058/7679a189-fac9-4947-b052-29e879108255
+
+
+
 <br />
 <br />
 
